@@ -38,6 +38,10 @@ a:hover, a:focus {
       color: teal;
  }
 
+nav ul li {
+    text-align: center;
+}
+
 section {
       color: teal; 
     }
