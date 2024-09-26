@@ -19,7 +19,7 @@ body {
       font-family: fantasy;
       padding: 0;
       margin: 0;
-      display: display-box;
+      display: flex;
       color: teal;
  }
 
