@@ -3,45 +3,35 @@ body {
     color:azure;
     font-size:100%;
     background-color: #699de0;
-  
-  header {
+}
 
-    background-color: antiquewhite;
-  
+  header {
+      background-color: antiquewhite;
   }
   
   h1 {
-
-    color:azure;
+    color:teal;
     text-align:center;
-  
   }
   
   nav ul {
-
-      list-style-type: none;
+     list-style-type: none;
       font-family: fantasy;
       padding: 0;
       margin: 0;
       display: display-box;
       color: teal;
-
-  }
+ }
 
   section {
-
       color: teal: 
-
-
-  }
+    }
 
   footer {
-
-    text-align:center;
+     text-align:center;
     font-style:italic;
     color: tan;
-
   }
-  }
+  
 
 
