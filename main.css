@@ -26,16 +26,14 @@ a:hover, a:focus {
   }
   
   nav ul {
-      background-color: white;
-      border-bottom: 1px solid #005A9C;
-      border-top: 1px solid #005a9C;
-     list-style-type: none;
-      font-family: fantasy;
-      padding: 3px 0;
-      margin: 1em 2.4em;
-      text-align: center;
-      display: flex;
-      color: teal;
+    background-color: white;
+    border-bottom: 1px solid #005A9C;
+    border-top: 1px solid #005a9C;
+    list-style-type: none;
+    font-family: fantasy;
+    padding: 1em 0;
+    margin: 1em 2.4em;
+    text-align: center;
  }
 
 nav ul li {
@@ -44,8 +42,7 @@ nav ul li {
 }
 
 nav ul li a {
-    font-weight: bold;
-    color: blue;} 
+    color: purple;} 
     
 section {
     color: teal;
