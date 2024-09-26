@@ -21,6 +21,7 @@ body {
   nav ul {
 
       list-style-type: none;
+      font-family: fantasy;
       padding: 0;
       margin: 0;
       display: display-box;
