@@ -26,23 +26,23 @@ a:hover, a:focus {
   }
   
   nav ul {
+      background-color: white;
+      border-bottom: 1px solid #005A9C;
+      border-top: 1px solid #005a9C;
      list-style-type: none;
       font-family: fantasy;
       padding: 0;
       margin: 0;
+      text-align: center;
       display: flex;
       color: teal;
  }
 
-nav ul li {
-    text-align:center;
-}
-
-  section {
+section {
       color: teal; 
     }
 
-  footer {
+footer {
      text-align:center;
     font-style:italic;
   }
