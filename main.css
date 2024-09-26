@@ -31,7 +31,7 @@ a:hover, a:focus {
       border-top: 1px solid #005a9C;
      list-style-type: none;
       font-family: fantasy;
-      padding: 0;
+      padding: 3px;
       margin: 0;
       text-align: center;
       display: flex;
