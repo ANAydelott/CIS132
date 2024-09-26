@@ -32,7 +32,7 @@ a:hover, a:focus {
      list-style-type: none;
       font-family: fantasy;
       padding: 3px;
-      margin: 0;
+      margin: 1em 2.4em;
       text-align: center;
       display: flex;
       color: teal;
