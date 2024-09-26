@@ -23,6 +23,10 @@ body {
       color: teal;
  }
 
+nav ul li {
+    margin-right:20px;
+}
+
   section {
       color: teal: 
     }
