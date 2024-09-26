@@ -21,6 +21,7 @@ a:hover, a:focus {
   
   h1 {
     color:teal;
+    text-shadow: 4px 4px;
     text-align:center;
     font-variant:small-caps;
   }
