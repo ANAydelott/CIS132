@@ -52,7 +52,10 @@ nav ul li {
 }
 
 nav ul li a {
-    color: purple;} 
+    color: purple;
+    font-weight: bold;
+    font-variant: small-caps;
+} 
     
 section {
     background-color: teal;
