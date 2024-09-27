@@ -65,6 +65,7 @@ section {
 
 address a {
     background-color: black;
+    font-weight: bold;
 }
 
 footer {
