@@ -61,6 +61,10 @@ section {
     margin: 1em 2.4em;
     }
 
+address a {
+    background-color: black;
+}
+
 footer {
      text-align:center;
     font-style:italic;
